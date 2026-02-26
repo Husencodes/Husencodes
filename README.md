@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋  Hello, I'm Husen <br><br>I am a BCA student passionate about programming and problem-solving.  <br>Currently focusing on **Data Structures & Algorithms  and building a strong foundation in **C, OOPs in C++ , Python, and Github**.<br><br>💡 Areas of Interest:<br>- Data Structures & Algorithms<br>- Open Source Contributions<br>- AI & Machine Learning (future goal)<br><br>🎯 Long-term Goal:<br>- Contribute to Open Source<br>- Crack Google Summer of Code (GSoC)<br>- Become an AI Engineer<br><br>📌 Consistent learner | Curious mind | Growth-focused<br>
+👋  Hello, I'm Husen <br><br>I am a BCA student at SVK College Koppal<br>
+Aspiring to AI Engineer <br> passionate about programming and problem-solving.  <br>Currently focusing on **Data Structures & Algorithms  and building a strong foundation in **C, OOPs in C++ , Python, and Github**.<br><br>💡 Areas of Interest:<br>- Data Structures & Algorithms<br>- Open Source Contributions<br>- AI & Machine Learning (future goal)<br><br>🎯 Long-term Goal:<br>- Contribute to Open Source<br>- Crack Google Summer of Code (GSoC)<br>- Become an AI Engineer<br><br>📌 Consistent learner | Curious mind | Growth-focused<br>
 
 
 ## 🌐 Socials:
